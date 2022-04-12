@@ -1,0 +1,32 @@
+
+form{
+    display: flex;
+    flex-direction:column;
+    width: 500px;   
+    margin:5px 
+}
+input{
+    height: 30px;
+}
+
+input[type=submit]{
+    background-color: royalblue;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+
+.container{
+    display: flex
+}
+
+nav{
+    width:30%;
+    background-color:skyblue;
+    height:100%;
+}
+
+.recherche{
+    display:flex
+}
